@@ -16,7 +16,7 @@
  */
 
 #ifndef BEARSH_ANALOGIN_H_
-#define BEARSH_EANALOGIN_H_
+#define BEARSH_ANALOGIN_H_
 
 #include "mbed-drivers/platform.h"
 
