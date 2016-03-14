@@ -10,7 +10,7 @@
   },
   "targetDependencies": {
     "nordic": {
-      "ext-hal-nrf51": "*"
+      "ext-hal-nrf51": "git@github.com:bearsh/ext-hal-nrf51.git"
     }
   }
 }
