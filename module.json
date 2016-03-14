@@ -1,0 +1,16 @@
+{
+  "name": "bearsh-drivers",
+  "version": "0.1.0",
+  "description": "mbed compatible drivers",
+  "keywords": [],
+  "author": "me@bearsh.org",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "mbed-drivers": "^1.0.0"
+  },
+  "targetDependencies": {
+    "nordic": {
+      "ext-hal-nrf51": "*"
+    }
+  }
+}
